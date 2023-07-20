@@ -40,7 +40,7 @@ Contributions are welcome! Here's how you can contribute to the Weather App proj
 - Make your modifications
 - Open a pull request
 
-- 
+  
 ## Screenshots
 ![Screenshot from 2023-07-18 12-37-12](https://github.com/PratikHGhadge/WeatherApp/assets/93422248/1b94e57a-51e6-47f8-a9ea-ecd6002755f8)
 
